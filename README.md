@@ -60,9 +60,9 @@ I am a passionate computer science and engineering student, aspiring to become a
 
 ### Certifications
 
-[<img alt="generative-ai" title="generative-ai-certificate" src="./img/certificates/generative-ai.png" />][generative-ai]
+[<img alt="generative-ai-certificate" title="Career Essentials in Generative AI by Microsoft and LinkedIn" src="./img/certificates/generative-ai.png" />][generative-ai]
 
-[<img alt="generative-ai" title="generative-ai-certificate" src="./img/certificates/git-and-github.jpg" />][git-and-github]
+[<img alt="git-and-github-certificate" title="Master Git and Github Beginner to Expert" src="./img/certificates/git-and-github.jpg" />][git-and-github]
 
 <br />
 
