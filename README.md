@@ -21,7 +21,7 @@ I am Taher Mahmud, a student from Dhaka, Bangladesh, currently pursuing my Bache
 <p align="left">
 	<a href="https://wakatime.com/@monmoy">
 		<img 
-			height="151px" 
+			height="150px" 
 			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=monmoy&layout=compact&langs_count=8&theme=nord"
          alt="Taher WakaTime Stats" />
 	</a>
