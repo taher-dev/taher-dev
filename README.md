@@ -21,13 +21,13 @@ I am Taher Mahmud, a student from Dhaka, Bangladesh, currently pursuing my Bache
 <p align="left">
 	<a href="https://wakatime.com/@monmoy">
 		<img 
-			height="150px" 
+			height="151px" 
 			src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=monmoy&layout=compact&langs_count=8&theme=nord"
          alt="Taher WakaTime Stats" />
 	</a>
 	<a href="https://leetcode.com/u/_uzumaki_">
 		<img 
-		height="151px" 
+		height="150px" 
 		src="https://leetcard.jacoblin.cool/_uzumaki_?theme=nord&font=PT%20Sans"
 		alt="Taher LeetCode Stats" />
 	</a>
