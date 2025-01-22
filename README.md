@@ -27,7 +27,7 @@ I am Taher Mahmud, a student from Dhaka, Bangladesh, currently pursuing my Bache
 	</a>
 	<a href="https://leetcode.com/u/_uzumaki_">
 		<img 
-		height="150px" 
+		height="151px" 
 		src="https://leetcard.jacoblin.cool/_uzumaki_?theme=nord&font=PT%20Sans"
 		alt="Taher LeetCode Stats" />
 	</a>
