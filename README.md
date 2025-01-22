@@ -1,4 +1,6 @@
-<img src="./img/Github-Portfolio-Cover.png">
+<a href="https://taher-portfolio.pages.dev">
+   <img width="100%" src="./img/Github-Portfolio-Cover.png">
+</a>
 
 <div align="right">
     <p>
@@ -31,7 +33,9 @@ I am Taher Mahmud, a student from Dhaka, Bangladesh, currently pursuing my Bache
 	</a>
 </p>
 
-<img  
+<a href="./taher-cv.pdf">
+   <img  
    width="100%"
 	src="./img/skills.png"
 	alt="Taher Technical Skills" />
+</a>
