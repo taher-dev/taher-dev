@@ -33,9 +33,12 @@ I am Taher Mahmud, a student from Dhaka, Bangladesh, currently pursuing my Bache
 	</a>
 </p>
 
-<a href="./taher-cv.pdf">
-   <img  
-   width="100%"
-	src="./img/skills.png"
-	alt="Taher Technical Skills" />
-</a>
+### Technical Skills
+
+<ul>
+	<li>Web Development: PHP, MySQL, JavaScript, CSS, Bootstrap, HTML</li>
+    <li>UI/UX: Figma, Canva</li>
+    <li>Version Control: Git, GitHub</li>
+    <li>Programming: Java, C, C++, Python, Assembly, Arduino</li>
+    <li>Additional: LATEX, AutoCAD, Office applications</li>
+</ul>
