@@ -1,4 +1,4 @@
-<a href="https://taher-portfolio.pages.dev">
+<a title="Visit Taher's Portfolio" href="https://taher-portfolio.pages.dev">
    <img width="100%" src="./img/Github-Portfolio-Cover.png">
 </a>
 
