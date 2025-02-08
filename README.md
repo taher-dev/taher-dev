@@ -10,7 +10,7 @@
     </p>
 </div>
 
-I am Taher Mahmud, a student from Dhaka, Bangladesh, currently pursuing my Bachelor’s degree in **Computer Science and Engineering** at Green University of Bangladesh.
+I am Taher Mahmud, currently pursuing my Bachelor’s degree in **Computer Science and Engineering** at Green University of Bangladesh.
 
 <p align="left">
 	<a href="https://skillicons.dev">
