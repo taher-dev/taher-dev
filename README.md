@@ -44,12 +44,10 @@ I am Taher Mahmud, currently pursuing my Bachelor’s degree in **Computer Scien
 </ul>
 
 <div align="center">
-	<h4>Coding Stats</h4>
 	<a 
 		title="Total time coded since Jan 11, 2025"
 		href="https://wakatime.com/@432046b1-b864-439e-b4d8-f27cc25d23e3" 
 		target="_blank">
-		
 		<img 
 			src="https://wakatime.com/badge/user/432046b1-b864-439e-b4d8-f27cc25d23e3.svg?style=for-the-badge" 
 			alt="Total time coded since Jan 11, 2025" />
