@@ -12,7 +12,7 @@
 
 I am Taher Mahmud, currently pursuing my Bachelor’s degree in **Computer Science and Engineering** at Green University of Bangladesh.
 
-![Skills](https://skillicons.dev/icons?i=js,react,vite,css,tailwind,bootstrap,html,php,mysql,figma,java,cpp,c,python,bash,matlab,latex,autocad,arduino&perline=9)
+![Skills](https://skillicons.dev/icons?i=js,react,vite,css,tailwind,bootstrap,html,php,mysql,figma,java,cpp,python,bash,matlab,latex,autocad,arduino&perline=9)
 
 <p align="left">
 	<a href="https://wakatime.com/@monmoy">
