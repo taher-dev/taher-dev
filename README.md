@@ -1,5 +1,5 @@
 <a title="Visit Taher's Portfolio" href="https://monmoy.pages.dev">
-    <img width="100%" src="./img/Github-Portfolio-Cover.png" alt="Taher Mahmud Portfolio Banner">
+    <img width="100%" src="./img/cover-monmoy.png" alt="Taher Mahmud Portfolio Banner">
 </a>
 
 <div align="right">
