@@ -15,7 +15,7 @@
 
 Computer Science and Engineering graduate from **Green University of Bangladesh**, with hands-on experience in **full-stack web, mobile, and Unity AR development**. Currently focused on **AI-driven development**, building scalable web applications, machine learning solutions, and interactive experiences.
 
-- 🎓 **B.Sc. in CSE** (CGPA: 3.78 / 4.00) — *Green University of Bangladesh (2022–2026)*
+- 🎓 **B.Sc. in CSE** (CGPA: 3.79 / 4.00) — *Green University of Bangladesh (2022–2026)*
 - 🔬 **Undergraduate Thesis:** *An Explainable Hierarchical Transformer Framework for Multi-Level Hate Speech Classification from Banglish Code-Mixed Social Media Comments* (Grade: 4.00 / 4.00 A+)
 - 💼 Former **AR Developer Intern** at [Battery Low Interactive Limited](https://batterylowglobal.com/)
 - 🤝 Former **Student Mentor** at Department of Artificial Intelligence and Data Science, GUB
